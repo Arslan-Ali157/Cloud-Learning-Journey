@@ -1,28 +1,38 @@
-# Cloud-Learning-Journey
-# 📅 Week 1 – Day 1: Cloud Computing Basics
+# ☁️ Cloud Computing Learning Journey – Progress Tracker
 
-## 🧠 Key Learnings
-- **Why Cloud is Popular:** Organizations need affordable, scalable, and faster infrastructure compared to traditional on-premises servers.
-- **Challenges Before Cloud:** 
-  - High upfront investment for hardware  
-  - Manual maintenance & upgrades  
-  - Limited scalability & slow deployment cycles  
-- **How Cloud Solves These Challenges:** 
-  - Pay-as-you-go pricing model  
-  - On-demand scalability (up & down)  
-  - High availability & global reach  
-  - Managed services reduce operational overhead  
-- **What is Cloud Computing:** On-demand delivery of computing resources (servers, storage, databases, networking) over the internet.
-- **Service Models:**
-  - 🏗 **IaaS (Infrastructure as a Service):** EC2, S3  
-  - 🧩 **PaaS (Platform as a Service):** Elastic Beanstalk  
-  - 💻 **SaaS (Software as a Service):** Gmail, Netflix  
-- **Deployment Models:**
-  - 🌍 **Public Cloud:** AWS, Azure, GCP  
-  - 🏢 **Private Cloud:** On-premises setups  
-  - 🔗 **Hybrid Cloud:** Combination of public + private  
+## ✅ Week 1 Progress
 
+### 📅 Day 1 – Cloud Basics
+- Learned why cloud computing became popular.
+- Understood challenges before cloud (high cost, slow deployment, no scalability).
+- Learned about IaaS, PaaS, SaaS service models.
+- Learned about Public, Private, Hybrid deployment models.
+- Documented all notes in GitHub.
 
-📌 **Next Step:**  
-Tomorrow → *AWS Overview + AWS Free Tier Account Setup*
+---
 
+### 📅 Day 2 – AWS Overview (Theory Only)
+- Watched "AWS Overview for Beginners" video 
+- Learned AWS global infrastructure: Regions, Availability Zones, Edge Locations.
+- Understood core AWS services: EC2, S3, IAM, RDS, Lambda, VPC.
+- Learned about AWS Free Tier and how it works (no account created yet).
+- Documented learning in GitHub.
+
+---
+
+### 📅 Day 3 – IaaS, PaaS, SaaS (Deep Dive)
+- Reviewed and compared IaaS, PaaS, SaaS with real-world examples.
+- Wrote a detailed comparison table in GitHub notes.
+- Understood use cases for each model.
+
+---
+
+### 📅 Day 4 – AWS Core Services Overview
+- Explored EC2 (virtual servers), S3 (object storage), IAM (access control), VPC (private network).
+- Understood how these services work together in real-world scenarios.
+- Documented notes in GitHub for future reference.
+
+---
+
+## 🛑 Pending Task
+- **Create AWS Free Tier Account** (will complete once payment card is available).
